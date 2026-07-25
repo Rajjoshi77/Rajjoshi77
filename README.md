@@ -205,7 +205,7 @@ An intelligent web application that automates candidate interview coordinate sch
 
 ### 👥 EMS — Employee Management System
 <p align="center">
-  <img src="assets/project_os.png" width="100%" alt="EMS Technical Preview" style="border-radius: 12px; border: 1px solid #7F5AF0;" />
+  <img src="assets/project_ems.png" width="100%" alt="EMS Technical Preview" style="border-radius: 12px; border: 1px solid #7F5AF0;" />
 </p>
 
 A web-based registry and administrative portal to catalog profiles, structure department coordinate filters, manage credentials authentication, and trigger full CRUD database commands inside React.
