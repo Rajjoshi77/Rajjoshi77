@@ -162,7 +162,7 @@
     <circle cx="10" cy="10" r="5" fill="#FF5F56" />
     <circle cx="25" cy="10" r="5" fill="#FFBD2E" />
     <circle cx="40" cy="10" r="5" fill="#27C93F" />
-    <text x="65" y="14" font-family="'Fira Code', monospace" font-size="11" fill="#7F5AF0" opacity="0.7">root@hyperion:~</text>
+    <text x="65" y="14" font-family="'Fira Code', monospace" font-size="11" fill="#7F5AF0" opacity="0.7">raj@pdeu-mainframe:~</text>
   </g>
 
   <!-- Animated Decorative Floating Particles/Nodes -->
@@ -185,31 +185,31 @@
   <g transform="translate(35, 75)">
     <!-- Log Line 1 -->
     <g class="type-line1">
-      <text x="0" y="15" class="terminal-text">&gt; INITIALIZING COGNITIVE INTERFACE...</text>
+      <text x="0" y="15" class="terminal-text">&amp;gt; INITIALIZING PORTAL INTERFACE...</text>
       <text x="315" y="15" class="terminal-text" fill="#27C93F">[OK]</text>
     </g>
     <!-- Log Line 2 -->
     <g class="type-line2">
-      <text x="0" y="40" class="terminal-text">&gt; MOUNTING NEURAL CORE NETWORKS...</text>
+      <text x="0" y="40" class="terminal-text">&amp;gt; MOUNTING DISTRIBUTED FS (RFS)...</text>
       <text x="300" y="40" class="terminal-text" fill="#27C93F">[READY]</text>
     </g>
     <!-- Log Line 3 -->
     <g class="type-line3">
-      <text x="0" y="65" class="terminal-text">&gt; CONNECTING SYNERGY SOCKETS...</text>
+      <text x="0" y="65" class="terminal-text">&amp;gt; ATTACHING 3D SHADER ENGINE...</text>
       <text x="270" y="65" class="terminal-text" fill="#00F5FF">[ONLINE]</text>
     </g>
     <!-- Static Active Indicators -->
-    <text x="0" y="100" class="terminal-text" fill="#7F5AF0" font-weight="bold">&gt; HOST_STABILITY: 99.98% // BANDWIDTH: MAX</text>
+    <text x="0" y="100" class="terminal-text" fill="#7F5AF0" font-weight="bold">&amp;gt; DB: MONGODB // CLOUD: VERCEL // ACTIVE</text>
   </g>
 
   <!-- Right Side: Big Brand Title and Focus -->
   <g transform="translate(420, 95)">
     <!-- Glow behind the title -->
-    <text x="0" y="25" class="title-text" filter="url(#glow-cyan)" opacity="0.3">HYPERION</text>
+    <text x="0" y="25" class="title-text" filter="url(#glow-cyan)" opacity="0.3">RAJ JOSHI</text>
     <!-- Real Title -->
-    <text x="0" y="25" class="title-text">HYPERION</text>
+    <text x="0" y="25" class="title-text">RAJ JOSHI</text>
     
-    <text x="3" y="60" class="subtitle-text">SYSTEM ARCHITECT &amp; AI ENGINEER</text>
+    <text x="3" y="60" class="subtitle-text">FULLSTACK DEVELOPER &amp; CS ENGINEER</text>
     
     <!-- Pulse Indicator and Active Status -->
     <g transform="translate(3, 85)">
@@ -217,7 +217,7 @@
         <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite" />
         <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite" />
       </circle>
-      <text x="20" y="0" font-family="'Fira Code', monospace" font-size="11" fill="#FFFFFF" opacity="0.6">PORT: 8080 // LOC: GRID_0X7F</text>
+      <text x="20" y="0" font-family="'Fira Code', monospace" font-size="11" fill="#FFFFFF" opacity="0.6">PDEU CSE // HOST_STABILITY: 100%</text>
     </g>
   </g>
 
