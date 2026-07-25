@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 40" width="100" height="40">
+  <style>
+    .bar {
+      fill: #00F5FF;
+      animation: bounce 0.8s ease-in-out infinite alternate;
+    }
+    .bar:nth-child(1) { animation-delay: -0.6s; fill: #00F5FF; }
+    .bar:nth-child(2) { animation-delay: -0.2s; fill: #7F5AF0; }
+    .bar:nth-child(3) { animation-delay: -0.4s; fill: #A855F7; }
+    .bar:nth-child(4) { animation-delay: -0.7s; fill: #7F5AF0; }
+    .bar:nth-child(5) { animation-delay: -0.1s; fill: #00F5FF; }
+
+    @keyframes bounce {
+      0% {
+        transform: scaleY(0.15);
+      }
+      100% {
+        transform: scaleY(1.0);
+      }
+    }
+  </style>
+  <g transform="translate(0, 40) scale(1, -1)">
+    <!-- Bar 1 -->
+    <rect class="bar" x="5" y="0" width="10" height="35" rx="3" transform-origin="10px 0" />
+    <!-- Bar 2 -->
+    <rect class="bar" x="25" y="0" width="10" height="35" rx="3" transform-origin="30px 0" />
+    <!-- Bar 3 -->
+    <rect class="bar" x="45" y="0" width="10" height="35" rx="3" transform-origin="50px 0" />
+    <!-- Bar 4 -->
+    <rect class="bar" x="65" y="0" width="10" height="35" rx="3" transform-origin="70px 0" />
+    <!-- Bar 5 -->
+    <rect class="bar" x="85" y="0" width="10" height="35" rx="3" transform-origin="90px 0" />
+  </g>
+</svg>
