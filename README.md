@@ -148,94 +148,77 @@ rajjoshi@pdeu:~$ _
 
 High-performance applications and core repositories built from scratch.
 
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
-  <!-- Project 1: BMW 3D -->
-  <tr>
-    <td width="40%">
-      <img src="assets/project_bmw.png" width="100%" alt="BMW-3D Showcase Layout" style="border-radius: 8px; border: 1px solid #7F5AF0;" />
-    </td>
-    <td width="60%" valign="top">
-      <h3>🚗 BMW-3D — Luxury Automotive Showcase</h3>
-      <p>A next-generation BMW-inspired luxury web experience. Built with custom 3D element rendering, smooth CSS keyframes, and highly interactive presentation grids focused on delivering an immersive product showcase.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel" />
-      </p>
-      <p>
-        <a href="https://bmw-3d-two.vercel.app"><b>[ ➡️ LIVE WEBSITE DEMO ]</b></a> &nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Rajjoshi77/BMW-3D"><b>[ 💾 REPOSITORY SOURCE ]</b></a>
-      </p>
-    </td>
-  </tr>
-  <!-- Divider -->
-  <tr><td colspan="2"><hr border="1" color="rgba(0, 245, 255, 0.1)"/></td></tr>
-  
-  <!-- Project 2: RFS -->
-  <tr>
-    <td width="60%" valign="top">
-      <h3>📡 RFS — Distributed File System</h3>
-      <p>A functional distributed storage node model enabling remote computation distributions, file chunk partition systems, and data synchronization triggers over custom Socket layers.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" />
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://rfs-two.vercel.app"><b>[ ➡️ LIVE FILE SYSTEM DEMO ]</b></a> &nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Rajjoshi77/RFS"><b>[ 💾 REPOSITORY SOURCE ]</b></a>
-      </p>
-    </td>
-    <td width="40%">
-      <img src="assets/project_dsim.png" width="100%" alt="RFS Technical Preview" style="border-radius: 8px; border: 1px solid #00F5FF;" />
-    </td>
-  </tr>
-  <!-- Divider -->
-  <tr><td colspan="2"><hr border="1" color="rgba(0, 245, 255, 0.1)"/></td></tr>
+### 🚗 BMW-3D — Luxury Automotive Showcase
+<p align="center">
+  <img src="assets/project_bmw.png" width="100%" alt="BMW-3D Showcase Layout" style="border-radius: 12px; border: 1px solid #7F5AF0;" />
+</p>
 
-  <!-- Project 3: Talentra -->
-  <tr>
-    <td width="40%">
-      <img src="assets/project_neural.png" width="100%" alt="Talentra Dashboard Preview" style="border-radius: 8px; border: 1px solid #A855F7;" />
-    </td>
-    <td width="60%" valign="top">
-      <h3>🤖 TALENTRA — AI Interviewer Platform</h3>
-      <p>An intelligent web application that automates candidate interview coordinate schedules, evaluation reporting, and custom scoring algorithms using artificial intelligence API layers.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/AI_Engine-A855F7?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://talentra-backend.vercel.app"><b>[ ➡️ LIVE DEPLOYMENT DEMO ]</b></a> &nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Rajjoshi77/Talentra"><b>[ 💾 REPOSITORY SOURCE ]</b></a>
-      </p>
-    </td>
-  </tr>
-  <!-- Divider -->
-  <tr><td colspan="2"><hr border="1" color="rgba(0, 245, 255, 0.1)"/></td></tr>
+A next-generation BMW-inspired luxury web experience. Built with custom 3D element rendering, smooth CSS keyframes, and highly interactive presentation grids focused on delivering an immersive product showcase.
 
-  <!-- Project 4: EMS -->
-  <tr>
-    <td width="60%" valign="top">
-      <h3>👥 EMS — Employee Management System</h3>
-      <p>A web-based registry and administrative portal to catalog profiles, structure department coordinate filters, manage credentials authentication, and trigger full CRUD database commands inside React.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" />
-      </p>
-      <p>
-        <a href="https://github.com/Rajjoshi77/EMS"><b>[ 💾 REPOSITORY SOURCE ]</b></a>
-      </p>
-    </td>
-    <td width="40%">
-      <img src="assets/project_os.png" width="100%" alt="EMS Technical Preview" style="border-radius: 8px; border: 1px solid #7F5AF0;" />
-    </td>
-  </tr>
-</table>
+**🛠️ Tech Stack & Deployment:**
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel" />
+</p>
+
+[➡️ Live Website Demo](https://bmw-3d-two.vercel.app) &nbsp;│&nbsp; [💾 Repository Source](https://github.com/Rajjoshi77/BMW-3D)
+
+---
+
+### 📡 RFS — Distributed File System
+<p align="center">
+  <img src="assets/project_dsim.png" width="100%" alt="RFS Technical Preview" style="border-radius: 12px; border: 1px solid #00F5FF;" />
+</p>
+
+A functional distributed storage node model enabling remote computation distributions, file chunk partition systems, and data synchronization triggers over custom Socket layers.
+
+**🛠️ Tech Stack & Deployment:**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" />
+</p>
+
+[➡️ Live File System Demo](https://rfs-two.vercel.app) &nbsp;│&nbsp; [💾 Repository Source](https://github.com/Rajjoshi77/RFS)
+
+---
+
+### 🤖 TALENTRA — AI Interviewer Platform
+<p align="center">
+  <img src="assets/project_neural.png" width="100%" alt="Talentra Dashboard Preview" style="border-radius: 12px; border: 1px solid #A855F7;" />
+</p>
+
+An intelligent web application that automates candidate interview coordinate schedules, evaluation reporting, and custom scoring algorithms using artificial intelligence API layers.
+
+**🛠️ Tech Stack & Deployment:**
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/AI_Engine-A855F7?style=flat-square" />
+</p>
+
+[➡️ Live Deployment Demo](https://talentra-backend.vercel.app) &nbsp;│&nbsp; [💾 Repository Source](https://github.com/Rajjoshi77/Talentra)
+
+---
+
+### 👥 EMS — Employee Management System
+<p align="center">
+  <img src="assets/project_os.png" width="100%" alt="EMS Technical Preview" style="border-radius: 12px; border: 1px solid #7F5AF0;" />
+</p>
+
+A web-based registry and administrative portal to catalog profiles, structure department coordinate filters, manage credentials authentication, and trigger full CRUD database commands inside React.
+
+**🛠️ Tech Stack & Deployment:**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" />
+</p>
+
+[💾 Repository Source](https://github.com/Rajjoshi77/EMS)
 
 ════════════════════════════════════════════════════════════════════════════════════════════════════
 
@@ -243,51 +226,25 @@ High-performance applications and core repositories built from scratch.
 
 A collection of utilities and trackers built to solve daily challenges.
 
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
+<table width="100%">
   <tr>
-    <!-- Utility 1 -->
-    <td width="50%" valign="top" style="border: 1px solid #7F5AF0; border-radius: 8px; background: #0D1117;">
-      <img src="assets/project_spendora.png" width="100%" alt="Expense Tracker Dashboard" style="border-radius: 6px;" />
+    <td width="50%" valign="top">
+      <img src="assets/project_spendora.png" width="480" alt="Expense Tracker Dashboard" style="border-radius: 12px; border: 1px solid #7F5AF0;" />
       <h3>📈 SPENDOR — Expense Tracker</h3>
       <p>A responsive, visual expense management card to monitor financial transactions, balance sheets, and savings budgets.</p>
-      <p><b>Stack:</b> React, TailwindCSS, Chart.js</p>
-      <p align="center">
-        <a href="https://spendor-financetracer.vercel.app"><b>[ ▶️ OPEN WEBSITE ]</b></a> &nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Rajjoshi77/Expense_Tracker"><b>[ 💾 SOURCE ]</b></a>
+      <p><b>🛠️ Tech Stack:</b> React, TailwindCSS, Chart.js</p>
+      <p>
+        <a href="https://spendor-financetracer.vercel.app"><b>[ ▶️ Open Website ]</b></a> &nbsp;│&nbsp; <a href="https://github.com/Rajjoshi77/Expense_Tracker"><b>[ 💾 Source Code ]</b></a>
       </p>
     </td>
-    <!-- Utility 2 -->
-    <td width="50%" valign="top" style="border: 1px solid #7F5AF0; border-radius: 8px; background: #0D1117;">
-      <img src="assets/project_traffic.png" width="100%" alt="Smart Traffic Grid" style="border-radius: 6px;" />
+    <td width="50%" valign="top">
+      <img src="assets/project_traffic.png" width="480" alt="Smart Traffic Grid" style="border-radius: 12px; border: 1px solid #00F5FF;" />
       <h3>🚦 SMART TRAFFIC — Traffic Flow Coordinator</h3>
       <p>An interactive traffic signal simulation designed to optimize signal cycles and coordinate lane pathing overlays.</p>
-      <p><b>Stack:</b> JavaScript, Canvas, Pathfinding Logic</p>
-      <p align="center">
-        <a href="https://smart-traffic-management-hazel.vercel.app"><b>[ ▶️ OPEN WEBSITE ]</b></a> &nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Rajjoshi77/Smart-Traffic-Management"><b>[ 💾 SOURCE ]</b></a>
+      <p><b>🛠️ Tech Stack:</b> JavaScript, Canvas, Pathfinding Logic</p>
+      <p>
+        <a href="https://smart-traffic-management-hazel.vercel.app"><b>[ ▶️ Open Website ]</b></a> &nbsp;│&nbsp; <a href="https://github.com/Rajjoshi77/Smart-Traffic-Management"><b>[ 💾 Source Code ]</b></a>
       </p>
-    </td>
-  </tr>
-  <tr>
-    <!-- Utility 3 -->
-    <td colspan="2" valign="top" style="border: 1px solid #7F5AF0; border-radius: 8px; background: #0D1117;">
-      <table width="100%" border="0" cellpadding="10" cellspacing="0">
-        <tr>
-          <td width="40%">
-            <img src="assets/game_arcade.png" width="100%" alt="Lesson Plan Scheduler" style="border-radius: 6px;" />
-          </td>
-          <td width="60%" valign="top">
-            <h3>📅 LESSON PLAN ORGANIZER</h3>
-            <p>A web scheduler application for educators to plan schedules, catalog lesson outlines, and organize course files.</p>
-            <p><b>Stack:</b> TypeScript, Next.js, Cloud Firestore</p>
-            <br/>
-            <p>
-              <a href="https://lesson-plan-nine.vercel.app"><b>[ ▶️ OPEN WEBSITE ]</b></a> &nbsp;&nbsp;&nbsp;
-              <a href="https://github.com/Rajjoshi77/Lesson_plan"><b>[ 💾 SOURCE ]</b></a>
-            </p>
-          </td>
-        </tr>
-      </table>
     </td>
   </tr>
 </table>
