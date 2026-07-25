@@ -187,7 +187,7 @@ A functional distributed storage node model enabling remote computation distribu
 
 ### 🤖 TALENTRA — AI Interviewer Platform
 <p align="center">
-  <img src="assets/project_neural.png" width="100%" alt="Talentra Dashboard Preview" style="border-radius: 12px; border: 1px solid #A855F7;" />
+  <img src="assets/project_talentra.png" width="100%" alt="Talentra Dashboard Preview" style="border-radius: 12px; border: 1px solid #A855F7;" />
 </p>
 
 An intelligent web application that automates candidate interview coordinate schedules, evaluation reporting, and custom scoring algorithms using artificial intelligence API layers.
