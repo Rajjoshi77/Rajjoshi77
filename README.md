@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Widescreen Cinematic Header Banner -->
-  <img src="assets/hero_banner.jpg" width="100%" alt="Developer Banner Workspace" style="border-radius: 12px; border: 1px solid #7F5AF0;" />
+  <img src="assets/hero_banner_student.jpg" width="100%" alt="Developer Banner Workspace" style="border-radius: 12px; border: 1px solid #7F5AF0;" />
 </p>
 
 <p align="center">
