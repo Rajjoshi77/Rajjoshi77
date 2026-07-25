@@ -1,13 +1,13 @@
-# 🪐 RAJ JOSHI // FULLSTACK & DISTRIBUTED SYSTEMS OS
+# 🪐 RAJ JOSHI // FULLSTACK & DISTRIBUTED SYSTEMS DEVELOPER
 
 <p align="center">
   <!-- Widescreen Cinematic Header Banner -->
-  <img src="assets/hero_banner.png" width="100%" alt="Cyberpunk Banner Workspace" style="border-radius: 12px; border: 1px solid #7F5AF0;" />
+  <img src="assets/hero_banner.png" width="100%" alt="Developer Banner Workspace" style="border-radius: 12px; border: 1px solid #7F5AF0;" />
 </p>
 
 <p align="center">
   <!-- Animated Typing Terminal Banner -->
-  <img src="assets/header.svg" width="100%" alt="System Terminal Header" />
+  <img src="assets/header.svg" width="100%" alt="Developer Terminal Header" />
 </p>
 
 <!-- Neon Glow Section Divider -->
@@ -17,42 +17,38 @@
 
 ════════════════════════════════════════════════════════════════════════════════════════════════════
 
-## ⚡ CORE OPERATING SYSTEM
+## 👤 DEVELOPER PROFILE
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <!-- Avatar and Status -->
     <td width="25%" align="center" valign="top">
-      <img src="assets/avatar.png" width="180" height="180" alt="Raj Joshi Cyber Avatar" style="border-radius: 24px; border: 3px solid #00F5FF; filter: drop-shadow(0 0 10px rgba(0, 245, 255, 0.4));" />
+      <img src="assets/avatar.png" width="180" height="180" alt="Raj Joshi Avatar" style="border-radius: 24px; border: 3px solid #00F5FF; filter: drop-shadow(0 0 10px rgba(0, 245, 255, 0.4));" />
       <br/><br/>
       <!-- Visitor Counter -->
-      <img src="https://komarev.com/ghpvc/?username=Rajjoshi77&color=00F5FF&style=flat-square" alt="Core Grid Interconnections" />
+      <img src="https://komarev.com/ghpvc/?username=Rajjoshi77&color=00F5FF&style=flat-square" alt="Profile Views" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/SYSTEM-ONLINE-27C93F?style=for-the-badge" alt="Online Status" />
+      <img src="https://img.shields.io/badge/STATUS-AVAILABLE-27C93F?style=for-the-badge" alt="Available Status" />
     </td>
     <!-- Operating Details -->
     <td width="75%" valign="top">
-      <h3>📟 OPERATOR LOG // IDENTITY PROFILE</h3>
-      <p>I am <b>Raj Joshi</b>, a Computer Science Engineer at <b>Pandit Deendayal Energy University (PDEU)</b>. I design premium UI/UX web interfaces, low-latency distributed networks, and intelligent machine-assisted interfaces.</p>
+      <h3>👋 Welcome to My Portfolio</h3>
+      <p>I am <b>Raj Joshi</b>, a Computer Science Engineering student at <b>Pandit Deendayal Energy University (PDEU)</b>. I specialize in designing premium fullstack web interfaces, low-latency distributed database systems, and intelligent web integrations.</p>
       <hr border="1" color="#7F5AF0"/>
       <table width="100%" border="0">
         <tr>
-          <td><b>📍 GRID COORDINATES:</b> Gandhinagar, Gujarat, India</td>
-          <td><b>⚡ SYSTEM AVAILABILITY:</b> OPEN (Full-Stack &amp; Freelance)</td>
+          <td><b>📍 LOCATION:</b> Gandhinagar, Gujarat, India</td>
+          <td><b>💼 AVAILABILITY:</b> Open to internships &amp; freelance projects</td>
         </tr>
         <tr>
-          <td><b>🎓 ACADEMIC TRACK:</b> B.Tech in CSE @ PDEU</td>
-          <td><b>🧠 EXPERIENCE RANK:</b> Computer Science Student &amp; Developer</td>
-        </tr>
-        <tr>
-          <td><b>🌌 FOCUS INTERFACE:</b> Distributed Systems &amp; 3D Web UI</td>
-          <td><b>🔒 PRIVILEGE LEVEL:</b> ROOT ACCESS</td>
+          <td><b>🎓 EDUCATION:</b> B.Tech in CSE @ PDEU</td>
+          <td><b>⚡ KEY INTERESTS:</b> Fullstack, Distributed Computing &amp; 3D Web UI</td>
         </tr>
       </table>
       <br/>
       <p align="left">
-        <a href="https://github.com/Rajjoshi77"><img src="https://img.shields.io/github/followers/Rajjoshi77?label=GRID_FOLLOWERS&style=for-the-badge&color=7F5AF0&logo=github" /></a>
-        <a href="https://github.com/Rajjoshi77"><img src="https://img.shields.io/github/stars/Rajjoshi77?label=GRID_STARS&style=for-the-badge&color=00F5FF&logo=github" /></a>
+        <a href="https://github.com/Rajjoshi77"><img src="https://img.shields.io/github/followers/Rajjoshi77?label=Followers&style=for-the-badge&color=7F5AF0&logo=github" /></a>
+        <a href="https://github.com/Rajjoshi77"><img src="https://img.shields.io/github/stars/Rajjoshi77?label=Stars&style=for-the-badge&color=00F5FF&logo=github" /></a>
       </p>
     </td>
   </tr>
@@ -60,14 +56,14 @@
 
 ════════════════════════════════════════════════════════════════════════════════════════════════════
 
-## 📟 SYSTEM TERMINAL // PROFILE SHELL
+## 📟 INTERACTIVE TERMINAL
 
 <details open>
-  <summary><b>📟 MAIN OS SHELL (Click to collapse/expand terminal)</b></summary>
+  <summary><b>📟 MAIN PROFILE SHELL (Click to collapse/expand terminal)</b></summary>
   <br/>
 
 ```bash
-rajjoshi@pdeu-mainframe:~$ systemctl status distributed-rfs
+rajjoshi@pdeu:~$ systemctl status distributed-rfs
 ● distributed-rfs.service - Low-Latency Distributed File System
      Loaded: loaded (/etc/systemd/system/distributed-rfs.service; enabled)
      Active: active (running) since Sat 2026-07-25 15:42:10 IST; 7 hours ago
@@ -77,37 +73,37 @@ rajjoshi@pdeu-mainframe:~$ systemctl status distributed-rfs
      CGroup: /system.slice/distributed-rfs.service
              └─7777 /usr/bin/node rfs-server.js --partition-blocks --network-sockets
 
-rajjoshi@pdeu-mainframe:~$ cat pdeu-student-profile.json
+rajjoshi@pdeu:~$ cat profile.json
 {
   "name": "Raj Joshi",
   "university": "Pandit Deendayal Energy University (PDEU)",
   "major": "Computer Science and Engineering",
-  "core_competence": {
-    "languages": ["TypeScript", "JavaScript", "Python", "HTML/CSS", "SQL"],
-    "frameworks": ["React", "Express.js", "Node.js", "MongoDB", "Three.js"]
+  "focus": {
+    "languages": ["TypeScript", "JavaScript", "Python", "HTML/CSS", "SQL", "C++"],
+    "technologies": ["React", "Express.js", "Node.js", "MongoDB", "Three.js", "WebSockets"]
   }
 }
 
-rajjoshi@pdeu-mainframe:~$ wakatime --query today
-Today's Cycles: 8 hrs 15 mins
-[██████████████████████████████████████████░░░░░░░░░░░░] 78% Efficiency Logged
+rajjoshi@pdeu:~$ wakatime --query today
+Today's Logged Code Cycles: 8 hrs 15 mins
+[██████████████████████████████████████████░░░░░░░░░░░░] 78% Efficiency
 - BMW-3D Showcase:      3 hrs 40 mins (TypeScript / Three.js)
 - RFS Computations:      2 hrs 15 mins (Node.js / Distributed logic)
 - EMS Dashboard UI:     2 hrs 20 mins (React / MongoDB)
 
-rajjoshi@pdeu-mainframe:~$ _
+rajjoshi@pdeu:~$ _
 ```
 </details>
 
 ════════════════════════════════════════════════════════════════════════════════════════════════════
 
-## 🎨 CORE SKILLS & TECHNOLOGY PIPELINES
+## 🛠️ SKILLS & TECHNOLOGIES
 
 <table width="100%" border="0" cellpadding="5" cellspacing="5">
   <tr>
     <!-- Frontend -->
     <td width="33%" valign="top" style="border: 1px solid #7F5AF0; border-radius: 8px; background: #0D1117;">
-      <h3 align="center">🎨 VISUAL LAYER (FRONTEND)</h3>
+      <h3 align="center">🎨 FRONTEND</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
@@ -118,7 +114,7 @@ rajjoshi@pdeu-mainframe:~$ _
     </td>
     <!-- Backend -->
     <td width="33%" valign="top" style="border: 1px solid #7F5AF0; border-radius: 8px; background: #0D1117;">
-      <h3 align="center">⚙️ KERNEL LAYER (BACKEND)</h3>
+      <h3 align="center">⚙️ BACKEND</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /><br/>
@@ -129,7 +125,7 @@ rajjoshi@pdeu-mainframe:~$ _
     </td>
     <!-- Databases -->
     <td width="33%" valign="top" style="border: 1px solid #7F5AF0; border-radius: 8px; background: #0D1117;">
-      <h3 align="center">💾 PERSISTENCE &amp; CLOUD</h3>
+      <h3 align="center">💾 DATABASE &amp; CLOUD</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
@@ -148,27 +144,27 @@ rajjoshi@pdeu-mainframe:~$ _
 
 ════════════════════════════════════════════════════════════════════════════════════════════════════
 
-## 💻 PORTFOLIO SHOWCASE // ACTIVE REPOSITORY DEPLOYMENTS
+## 💻 PROJECT SHOWCASE
 
-Highlighted modules extracted directly from the `Rajjoshi77` source grid.
+High-performance applications and core repositories built from scratch.
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <!-- Project 1: BMW 3D -->
   <tr>
     <td width="40%">
-      <img src="assets/project_os.png" width="100%" alt="BMW-3D Mockup" style="border-radius: 8px; border: 1px solid #7F5AF0;" />
+      <img src="assets/project_os.png" width="100%" alt="BMW-3D Showcase Layout" style="border-radius: 8px; border: 1px solid #7F5AF0;" />
     </td>
     <td width="60%" valign="top">
-      <h3>🚗 BMW-3D — Immersive Showcase Showcase</h3>
-      <p>A next-generation BMW-inspired luxury web experience. Designed with responsive layouts, premium animations, and 3D vector interactions focused on creating a high-performance visual automotive deck.</p>
+      <h3>🚗 BMW-3D — Luxury Automotive Showcase</h3>
+      <p>A next-generation BMW-inspired luxury web experience. Built with custom 3D element rendering, smooth CSS keyframes, and highly interactive presentation grids focused on delivering an immersive product showcase.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel" />
       </p>
       <p>
-        <a href="https://bmw-3d-two.vercel.app"><b>[ ➡️ LIVE SHOWCASE DEMO ]</b></a> &nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Rajjoshi77/BMW-3D"><b>[ 💾 SOURCE CODE ]</b></a>
+        <a href="https://bmw-3d-two.vercel.app"><b>[ ➡️ LIVE WEBSITE DEMO ]</b></a> &nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/Rajjoshi77/BMW-3D"><b>[ 💾 REPOSITORY SOURCE ]</b></a>
       </p>
     </td>
   </tr>
@@ -178,8 +174,8 @@ Highlighted modules extracted directly from the `Rajjoshi77` source grid.
   <!-- Project 2: RFS -->
   <tr>
     <td width="60%" valign="top">
-      <h3>📡 RFS — Distributed File System &amp; Calculations</h3>
-      <p>A functional distributed storage node system enabling networked calculations, file partitioning, and data replication routing. Rebuilds standard server architectures inside low-latency network layers.</p>
+      <h3>📡 RFS — Distributed File System</h3>
+      <p>A functional distributed storage node model enabling remote computation distributions, file chunk partition systems, and data synchronization triggers over custom Socket layers.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
@@ -187,12 +183,12 @@ Highlighted modules extracted directly from the `Rajjoshi77` source grid.
         <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" />
       </p>
       <p>
-        <a href="https://rfs-two.vercel.app"><b>[ ➡️ LIVE NETWORK CORE ]</b></a> &nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Rajjoshi77/RFS"><b>[ 💾 SOURCE CODE ]</b></a>
+        <a href="https://rfs-two.vercel.app"><b>[ ➡️ LIVE FILE SYSTEM DEMO ]</b></a> &nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/Rajjoshi77/RFS"><b>[ 💾 REPOSITORY SOURCE ]</b></a>
       </p>
     </td>
     <td width="40%">
-      <img src="assets/project_defi.png" width="100%" alt="RFS Mockup" style="border-radius: 8px; border: 1px solid #00F5FF;" />
+      <img src="assets/project_defi.png" width="100%" alt="RFS Technical Preview" style="border-radius: 8px; border: 1px solid #00F5FF;" />
     </td>
   </tr>
   <!-- Divider -->
@@ -201,19 +197,19 @@ Highlighted modules extracted directly from the `Rajjoshi77` source grid.
   <!-- Project 3: Talentra -->
   <tr>
     <td width="40%">
-      <img src="assets/project_neural.png" width="100%" alt="Talentra Mockup" style="border-radius: 8px; border: 1px solid #A855F7;" />
+      <img src="assets/project_neural.png" width="100%" alt="Talentra Dashboard Preview" style="border-radius: 8px; border: 1px solid #A855F7;" />
     </td>
     <td width="60%" valign="top">
       <h3>🤖 TALENTRA — AI Interviewer Platform</h3>
-      <p>An intelligent web application that automates candidate interview coordination, screening evaluations, and custom grading pipelines using artificial intelligence integration models.</p>
+      <p>An intelligent web application that automates candidate interview coordinate schedules, evaluation reporting, and custom scoring algorithms using artificial intelligence API layers.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
         <img src="https://img.shields.io/badge/AI_Engine-A855F7?style=flat-square" />
       </p>
       <p>
-        <a href="https://talentra-backend.vercel.app"><b>[ ➡️ LIVE PLATFORM ]</b></a> &nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Rajjoshi77/Talentra"><b>[ 💾 SOURCE CODE ]</b></a>
+        <a href="https://talentra-backend.vercel.app"><b>[ ➡️ LIVE DEPLOYMENT DEMO ]</b></a> &nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/Rajjoshi77/Talentra"><b>[ 💾 REPOSITORY SOURCE ]</b></a>
       </p>
     </td>
   </tr>
@@ -224,7 +220,7 @@ Highlighted modules extracted directly from the `Rajjoshi77` source grid.
   <tr>
     <td width="60%" valign="top">
       <h3>👥 EMS — Employee Management System</h3>
-      <p>A complete employee register panel tracking employee profiles, department hierarchies, authentication layers, and full CRUD database operations inside a responsive, modern MERN dashboard.</p>
+      <p>A web-based registry and administrative portal to catalog profiles, structure department coordinate filters, manage credentials authentication, and trigger full CRUD database commands inside React.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
@@ -232,42 +228,42 @@ Highlighted modules extracted directly from the `Rajjoshi77` source grid.
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" />
       </p>
       <p>
-        <a href="https://github.com/Rajjoshi77/EMS"><b>[ 💾 SYSTEM REPOSITORY ]</b></a>
+        <a href="https://github.com/Rajjoshi77/EMS"><b>[ 💾 REPOSITORY SOURCE ]</b></a>
       </p>
     </td>
     <td width="40%">
-      <img src="assets/project_os.png" width="100%" alt="EMS Mockup" style="border-radius: 8px; border: 1px solid #7F5AF0;" />
+      <img src="assets/project_os.png" width="100%" alt="EMS Technical Preview" style="border-radius: 8px; border: 1px solid #7F5AF0;" />
     </td>
   </tr>
 </table>
 
 ════════════════════════════════════════════════════════════════════════════════════════════════════
 
-## 🎮 DEVELOPER UTILITIES & TOOLS
+## 🛠️ UTILITIES & TOOLKITS
 
-Custom-built utilities deployed on the public web.
+A collection of utilities and trackers built to solve daily challenges.
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <!-- Utility 1 -->
     <td width="50%" valign="top" style="border: 1px solid #7F5AF0; border-radius: 8px; background: #0D1117;">
-      <img src="assets/game_arcade.png" width="100%" alt="Expense Tracker Preview" style="border-radius: 6px;" />
-      <h3>📈 SPENDOR — Finance &amp; Expense Tracker</h3>
-      <p>A clean, visual expense analytics card system to monitor transactions, balance records, and expense projections.</p>
-      <p><b>Stack:</b> React, TailwindCSS, Charts API</p>
+      <img src="assets/game_arcade.png" width="100%" alt="Expense Tracker Dashboard" style="border-radius: 6px;" />
+      <h3>📈 SPENDOR — Expense Tracker</h3>
+      <p>A responsive, visual expense management card to monitor financial transactions, balance sheets, and savings budgets.</p>
+      <p><b>Stack:</b> React, TailwindCSS, Chart.js</p>
       <p align="center">
-        <a href="https://spendor-financetracer.vercel.app"><b>[ ▶️ OPEN UTILITY ]</b></a> &nbsp;&nbsp;&nbsp;
+        <a href="https://spendor-financetracer.vercel.app"><b>[ ▶️ OPEN WEBSITE ]</b></a> &nbsp;&nbsp;&nbsp;
         <a href="https://github.com/Rajjoshi77/Expense_Tracker"><b>[ 💾 SOURCE ]</b></a>
       </p>
     </td>
     <!-- Utility 2 -->
     <td width="50%" valign="top" style="border: 1px solid #7F5AF0; border-radius: 8px; background: #0D1117;">
-      <img src="assets/game_arcade.png" width="100%" alt="Smart Traffic Preview" style="border-radius: 6px;" />
-      <h3>🚦 SMART TRAFFIC — Traffic Coordinator</h3>
-      <p>An interactive traffic flow grid simulation designed to visualize traffic nodes and pathing delays.</p>
-      <p><b>Stack:</b> JavaScript, Canvas, Visual Algorithms</p>
+      <img src="assets/game_arcade.png" width="100%" alt="Smart Traffic Grid" style="border-radius: 6px;" />
+      <h3>🚦 SMART TRAFFIC — Traffic Flow Coordinator</h3>
+      <p>An interactive traffic signal simulation designed to optimize signal cycles and coordinate lane pathing overlays.</p>
+      <p><b>Stack:</b> JavaScript, Canvas, Pathfinding Logic</p>
       <p align="center">
-        <a href="https://smart-traffic-management-hazel.vercel.app"><b>[ ▶️ OPEN UTILITY ]</b></a> &nbsp;&nbsp;&nbsp;
+        <a href="https://smart-traffic-management-hazel.vercel.app"><b>[ ▶️ OPEN WEBSITE ]</b></a> &nbsp;&nbsp;&nbsp;
         <a href="https://github.com/Rajjoshi77/Smart-Traffic-Management"><b>[ 💾 SOURCE ]</b></a>
       </p>
     </td>
@@ -275,21 +271,21 @@ Custom-built utilities deployed on the public web.
   <tr>
     <!-- Utility 3 -->
     <td width="50%" valign="top" style="border: 1px solid #7F5AF0; border-radius: 8px; background: #0D1117;">
-      <img src="assets/game_arcade.png" width="100%" alt="Lesson Plan Preview" style="border-radius: 6px;" />
+      <img src="assets/game_arcade.png" width="100%" alt="Lesson Plan Scheduler" style="border-radius: 6px;" />
       <h3>📅 LESSON PLAN ORGANIZER</h3>
-      <p>A web scheduler application for teachers to catalog lesson plans, schedule weeks, and structure coursework files.</p>
-      <p><b>Stack:</b> TypeScript, Next.js, Database Storage</p>
+      <p>A web scheduler application for educators to plan schedules, catalog lesson outlines, and organize course files.</p>
+      <p><b>Stack:</b> TypeScript, Next.js, Cloud Firestore</p>
       <p align="center">
-        <a href="https://lesson-plan-nine.vercel.app"><b>[ ▶️ OPEN UTILITY ]</b></a> &nbsp;&nbsp;&nbsp;
+        <a href="https://lesson-plan-nine.vercel.app"><b>[ ▶️ OPEN WEBSITE ]</b></a> &nbsp;&nbsp;&nbsp;
         <a href="https://github.com/Rajjoshi77/Lesson_plan"><b>[ 💾 SOURCE ]</b></a>
       </p>
     </td>
-    <!-- Game: Snake -->
+    <!-- Classic Game -->
     <td width="50%" valign="top" style="border: 1px solid #7F5AF0; border-radius: 8px; background: #0D1117;">
-      <img src="assets/game_snake.png" width="100%" alt="Arcade Snake Preview" style="border-radius: 6px;" />
-      <h3>🐍 CYBER SNAKE</h3>
-      <p>Sleek HTML5 canvas snake game featuring responsive vector rendering and clean keyboard navigation.</p>
-      <p><b>Stack:</b> Vanilla HTML, JS Canvas API</p>
+      <img src="assets/game_snake.png" width="100%" alt="Retro Snake Board" style="border-radius: 6px;" />
+      <h3>🐍 CYBER SNAKE — Vector Classic</h3>
+      <p>A high-performance HTML5 canvas retro snake arcade. Focuses on smooth keyboard captures and local storage high score logs.</p>
+      <p><b>Stack:</b> Vanilla HTML, JavaScript Canvas</p>
       <p align="center">
         <a href="https://github.com/Rajjoshi77/Web-Dev"><b>[ 💾 SOURCE CODE ]</b></a>
       </p>
@@ -304,7 +300,7 @@ Custom-built utilities deployed on the public web.
 
 ════════════════════════════════════════════════════════════════════════════════════════════════════
 
-## 📊 CORE GRID LOGS // GITHUB SYSTEM METRICS
+## 📊 GITHUB METRICS
 
 Direct integration with our repository activity logs, tracking cycle efficiency, lang distribution, and contributions.
 
@@ -335,14 +331,14 @@ Direct integration with our repository activity logs, tracking cycle efficiency,
 
 ════════════════════════════════════════════════════════════════════════════════════════════════════
 
-## 📅 TIMELINE // HISTORY OPERATOR LOGS
+## 📅 EDUCATION & TIMELINE
 
 The chronological grid of our active operations.
 
 <table width="100%" border="0">
   <tr>
     <td align="right" valign="top" width="20%"><b>2023 — PRESENT</b></td>
-    <td align="center" valign="top" width="5%">🧬</td>
+    <td align="center" valign="top" width="5%">🎓</td>
     <td valign="top" width="75%">
       <b>B.Tech in Computer Science and Engineering @ PDEU</b>
       <p>Engaging in core academic computation vectors including Database Management, Object-Oriented Analysis, Distributed Computation models, and Visual Web Engineering layouts.</p>
@@ -351,38 +347,38 @@ The chronological grid of our active operations.
   <tr><td colspan="3"><hr border="1" color="rgba(127, 90, 240, 0.1)"/></td></tr>
   <tr>
     <td align="right" valign="top"><b>2024 — PRESENT</b></td>
-    <td align="center" valign="top">🌐</td>
+    <td align="center" valign="top">💻</td>
     <td valign="top">
-      <b>Open Source System Maintainer</b>
-      <p>Publishing responsive web mockups (BMW-3D), database registers (EMS), and smart utilities (Spendor, Smart Traffic Coordinator) on the GitHub network.</p>
+      <b>Open Source Collaborator &amp; Maintainer</b>
+      <p>Publishing responsive web showcases (BMW-3D), database management registers (EMS), and smart trackers (Spendor, Smart Traffic Coordinator) on the GitHub network.</p>
     </td>
   </tr>
 </table>
 
 ════════════════════════════════════════════════════════════════════════════════════════════════════
 
-## 🎵 OPERATIONAL FREQUENCY // AUDIO DRIVER
+## 🎵 CODING SOUNDTRACK
 
-Soundtracks mapped to cognitive processing loops.
+Sountracks driving coding loops and algorithm flows.
 
 <table width="100%">
   <tr>
     <td width="100" align="center">
-      <img src="assets/avatar.png" width="90" height="90" alt="Cyber Equalizer Art" style="border-radius: 8px; border: 1px solid #7F5AF0;" />
+      <img src="assets/avatar.png" width="90" height="90" alt="Audio Cover Art" style="border-radius: 8px; border: 1px solid #7F5AF0;" />
     </td>
     <td valign="top">
-      <h4>📻 NOW SYNCHRONIZING: Midnight Grid Mainframe</h4>
-      <p><i>Song: Neon Hackers — Artist: Raj Joshi Sessions (Looping)</i></p>
-      <img src="assets/equalizer.svg" alt="Animated Audio Equalizer" />
+      <h4>📻 NOW SYNCHRONIZING: Lofi Study Mainframe</h4>
+      <p><i>Song: Focus Cycles — Artist: Raj Joshi Sessions</i></p>
+      <img src="assets/equalizer.svg" alt="Audio Equalizer Wave" />
     </td>
   </tr>
 </table>
 
 ════════════════════════════════════════════════════════════════════════════════════════════════════
 
-## 📬 SYSTEM LINKS // ESTABLISH COGNITIVE PAIRING
+## 📬 CONNECT WITH ME
 
-Click on the secure nodes below to route communications or view extended portals.
+Establish connection links or browse portfolio nodes.
 
 <p align="left">
   <!-- GitHub -->
@@ -404,14 +400,14 @@ Click on the secure nodes below to route communications or view extended portals
 </p>
 
 ```
-Incoming Mail Port: rajj94380@gmail.com
-Status: Secure Socket Layer ACTIVE
+Mail Terminal Port: rajj94380@gmail.com
+Status: Secure Connection Available
 ```
 
 ════════════════════════════════════════════════════════════════════════════════════════════════════
 
 <p align="center">
-  <sub>MADE WITH LOVE IN THE QUANTUM GRID // OPERATOR RAJ JOSHI // 2026</sub>
+  <sub>MADE WITH LOVE BY RAJ JOSHI // 2026</sub>
 </p>
 
 <p align="center">
