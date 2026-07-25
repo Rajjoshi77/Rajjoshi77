@@ -248,25 +248,6 @@ A collection of utilities and trackers built to solve daily challenges.
     </td>
   </tr>
 </table>
-## 🎮 GAMES
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/game_arcade.png" width="480" alt="Arcade Game" style="border-radius: 12px; border: 1px solid #7F5AF0;" />
-      <h3>🕹️ Arcade Demo</h3>
-      <p>Play a retro arcade-style game built with HTML5 Canvas.</p>
-      <p><a href="https://rajjoshi77.github.io/arcade-demo"><b>[ ▶️ Play Game ]</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/game_snake.png" width="480" alt="Snake Game" style="border-radius: 12px; border: 1px solid #00F5FF;" />
-      <h3>🐍 Snake Game</h3>
-      <p>Classic snake gameplay with a cyberpunk twist.</p>
-      <p><a href="https://rajjoshi77.github.io/snake-game"><b>[ ▶️ Play Game ]</b></a></p>
-    </td>
-  </tr>
-</table>
-
 <!-- Neon Glow Section Divider -->
 
 ════════════════════════════════════════════════════════════════════════════════════════════════════
