@@ -1,4 +1,4 @@
-# 🪐 RAJ JOSHI // FULLSTACK & DISTRIBUTED SYSTEMS DEVELOPER
+# 🪐 RAJ JOSHI // FULL STACK WITH AI INTEGRATION & DISTRIBUTED SYSTEMS
 
 <p align="center">
   <!-- Widescreen Cinematic Header Banner -->
