@@ -152,7 +152,7 @@ High-performance applications and core repositories built from scratch.
   <!-- Project 1: BMW 3D -->
   <tr>
     <td width="40%">
-      <img src="assets/project_os.png" width="100%" alt="BMW-3D Showcase Layout" style="border-radius: 8px; border: 1px solid #7F5AF0;" />
+      <img src="assets/project_bmw.png" width="100%" alt="BMW-3D Showcase Layout" style="border-radius: 8px; border: 1px solid #7F5AF0;" />
     </td>
     <td width="60%" valign="top">
       <h3>🚗 BMW-3D — Luxury Automotive Showcase</h3>
@@ -188,7 +188,7 @@ High-performance applications and core repositories built from scratch.
       </p>
     </td>
     <td width="40%">
-      <img src="assets/project_defi.png" width="100%" alt="RFS Technical Preview" style="border-radius: 8px; border: 1px solid #00F5FF;" />
+      <img src="assets/project_dsim.png" width="100%" alt="RFS Technical Preview" style="border-radius: 8px; border: 1px solid #00F5FF;" />
     </td>
   </tr>
   <!-- Divider -->
@@ -247,7 +247,7 @@ A collection of utilities and trackers built to solve daily challenges.
   <tr>
     <!-- Utility 1 -->
     <td width="50%" valign="top" style="border: 1px solid #7F5AF0; border-radius: 8px; background: #0D1117;">
-      <img src="assets/game_arcade.png" width="100%" alt="Expense Tracker Dashboard" style="border-radius: 6px;" />
+      <img src="assets/project_spendora.png" width="100%" alt="Expense Tracker Dashboard" style="border-radius: 6px;" />
       <h3>📈 SPENDOR — Expense Tracker</h3>
       <p>A responsive, visual expense management card to monitor financial transactions, balance sheets, and savings budgets.</p>
       <p><b>Stack:</b> React, TailwindCSS, Chart.js</p>
@@ -258,7 +258,7 @@ A collection of utilities and trackers built to solve daily challenges.
     </td>
     <!-- Utility 2 -->
     <td width="50%" valign="top" style="border: 1px solid #7F5AF0; border-radius: 8px; background: #0D1117;">
-      <img src="assets/game_arcade.png" width="100%" alt="Smart Traffic Grid" style="border-radius: 6px;" />
+      <img src="assets/project_traffic.png" width="100%" alt="Smart Traffic Grid" style="border-radius: 6px;" />
       <h3>🚦 SMART TRAFFIC — Traffic Flow Coordinator</h3>
       <p>An interactive traffic signal simulation designed to optimize signal cycles and coordinate lane pathing overlays.</p>
       <p><b>Stack:</b> JavaScript, Canvas, Pathfinding Logic</p>
@@ -270,25 +270,24 @@ A collection of utilities and trackers built to solve daily challenges.
   </tr>
   <tr>
     <!-- Utility 3 -->
-    <td width="50%" valign="top" style="border: 1px solid #7F5AF0; border-radius: 8px; background: #0D1117;">
-      <img src="assets/game_arcade.png" width="100%" alt="Lesson Plan Scheduler" style="border-radius: 6px;" />
-      <h3>📅 LESSON PLAN ORGANIZER</h3>
-      <p>A web scheduler application for educators to plan schedules, catalog lesson outlines, and organize course files.</p>
-      <p><b>Stack:</b> TypeScript, Next.js, Cloud Firestore</p>
-      <p align="center">
-        <a href="https://lesson-plan-nine.vercel.app"><b>[ ▶️ OPEN WEBSITE ]</b></a> &nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Rajjoshi77/Lesson_plan"><b>[ 💾 SOURCE ]</b></a>
-      </p>
-    </td>
-    <!-- Classic Game -->
-    <td width="50%" valign="top" style="border: 1px solid #7F5AF0; border-radius: 8px; background: #0D1117;">
-      <img src="assets/game_snake.png" width="100%" alt="Retro Snake Board" style="border-radius: 6px;" />
-      <h3>🐍 CYBER SNAKE — Vector Classic</h3>
-      <p>A high-performance HTML5 canvas retro snake arcade. Focuses on smooth keyboard captures and local storage high score logs.</p>
-      <p><b>Stack:</b> Vanilla HTML, JavaScript Canvas</p>
-      <p align="center">
-        <a href="https://github.com/Rajjoshi77/Web-Dev"><b>[ 💾 SOURCE CODE ]</b></a>
-      </p>
+    <td colspan="2" valign="top" style="border: 1px solid #7F5AF0; border-radius: 8px; background: #0D1117;">
+      <table width="100%" border="0" cellpadding="10" cellspacing="0">
+        <tr>
+          <td width="40%">
+            <img src="assets/game_arcade.png" width="100%" alt="Lesson Plan Scheduler" style="border-radius: 6px;" />
+          </td>
+          <td width="60%" valign="top">
+            <h3>📅 LESSON PLAN ORGANIZER</h3>
+            <p>A web scheduler application for educators to plan schedules, catalog lesson outlines, and organize course files.</p>
+            <p><b>Stack:</b> TypeScript, Next.js, Cloud Firestore</p>
+            <br/>
+            <p>
+              <a href="https://lesson-plan-nine.vercel.app"><b>[ ▶️ OPEN WEBSITE ]</b></a> &nbsp;&nbsp;&nbsp;
+              <a href="https://github.com/Rajjoshi77/Lesson_plan"><b>[ 💾 SOURCE ]</b></a>
+            </p>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
